@@ -3,7 +3,7 @@ module github.com/arithmetics/onedb/pgx
 go 1.13
 
 require (
-	github.com/arithmetics/onedb v0.0.0-00010101000000-000000000000
+	github.com/arithmetics/onedb v0.0.0-20200201002448-2988e0bed2c8 
 	github.com/cockroachdb/apd v1.1.0 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
@@ -20,4 +20,3 @@ require (
 	gopkg.in/jackc/pgx.v2 v2.11.0
 )
 
-replace github.com/arithmetics/onedb => ../
