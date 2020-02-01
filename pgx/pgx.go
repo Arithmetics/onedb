@@ -3,7 +3,7 @@ package pgx
 import (
 	"io"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/arithmetics/onedb"
 	pgx "gopkg.in/jackc/pgx.v2"
 )
 

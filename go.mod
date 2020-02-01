@@ -1,4 +1,4 @@
-module github.com/EndFirstCorp/onedb
+module github.com/arithmetics/onedb
 
 go 1.13
 

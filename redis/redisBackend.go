@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/arithmetics/onedb"
 	"github.com/garyburd/redigo/redis"
 )
 

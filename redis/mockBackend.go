@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/EndFirstCorp/onedb"
+	"github.com/arithmetics/onedb"
 )
 
 type redisMock struct {
